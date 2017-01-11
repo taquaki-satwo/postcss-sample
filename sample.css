@@ -1,0 +1,15 @@
+.btn {
+  display: inline-block;
+  padding: 1rem;
+  cursor: pointer;
+}
+
+.btn-default {
+  color: white;
+  background-color: gray;
+}
+
+.btn-success {
+  color: white;
+  background-color: green;
+}
