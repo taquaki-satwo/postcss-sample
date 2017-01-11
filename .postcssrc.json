@@ -1,0 +1,8 @@
+{
+  "use":[
+    "postcss-import",
+    "cssnano"
+  ],
+  "input": "import.css",
+  "output": "app.css"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "postcss_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cssnano": "^3.10.0",
+    "postcss": "^5.2.9",
+    "postcss-import": "^9.1.0"
+  },
+  "devDependencies": {
+    "cssnano": "^3.10.0",
+    "postcss": "^5.2.9",
+    "postcss-cli": "^2.6.0",
+    "postcss-import": "^9.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taquaki-satwo/postcss_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taquaki-satwo/postcss_test/issues"
+  },
+  "homepage": "https://github.com/taquaki-satwo/postcss_test#readme"
+}
